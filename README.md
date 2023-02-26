@@ -7,6 +7,8 @@ This is my half-arsed attempt at producing an ['unofficial' syllabus](https://gi
 * Has already done that training
 * Is relatively early in their new career
 
+I use the ruby programming language to introduce many software development concepts. Although its popularity has been declining for some years, it is still very much used in anger across the tech sector (e.g. by AirBnB, Shopify, GitHub). More importantly, its friendly syntax makes it probably the easiest language for beginners to learn. It's also the language _I_ currently work in.
+
 ## Why?
 
 I started writing this for a friend who was considering changing careers and going down the bootcamp route. Within a few months, a second friend expressed a similar interest and so I shared the same document with them.
