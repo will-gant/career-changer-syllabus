@@ -129,6 +129,9 @@
 - [ ]  Understand the basic difference between a server and a client, including the fact that the same program can be a ‘server’ in one context and a ‘client’ in another.
 - [ ]  Understand that a server is a program running on a computer, and not the computer itself
 - [ ]  Banish the idea from your head that servers are necessarily something to do with websites or the web. Your computer will be quietly running several servers right now, used by ‘clients’ that are other programs on your machine.
+- [ ]  Find out which physical machines execute a) backend code, b) frontend code
+- [ ]  Frontend code is executed by another type of computer program that will already be running on that machine. Find out what that is.
+- [ ]  Find out what programming languages frontend code can consist of
 
 ### Data
 
@@ -144,6 +147,9 @@
 - [ ]  Understand that databases often exist on a completely different computer from the program that wants to use them (but don’t have to be)
 - [ ]  Understand that your program cannot interact with these files directly, and needs an intermediary - another program called a ‘*database server*’. E.g. *PostgreSQL* and *****MySQL*****.
 - [ ]  Know that *SQL* is a universal language that both humans and computer programs can use to ask a relational database server to read from, and write to, a database.
+- [ ]  Read a _little_ about database 'models', and how applications use them to work with data that's stored in a database
+- [ ]  Find a nice visual example of a) a database table, with its rows and columns, and b) the model for that table. Notice which bits of the model's code match the names of the table and its columns.
+- [ ]  Find out what JSON is, and what a website server might use it for. Note that JSON isn't _code_ per se, but more a format for storing and transmitting data. There aren't many _types_ of data it can do this for. See if you recognise any from ruby.
 
 ### Version control
 
