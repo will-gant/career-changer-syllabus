@@ -14,7 +14,7 @@
     - [ ]  Work out how many bits and bytes are needed to store your first name. Optional: spell out your first name in binary.
 - [ ]  Briefly dip your toe into some beginner-level material on CPU *instruction set architectures*.
     - [ ]  Understand that an instruction set, in this context, basically defines the particular binary instructions that can be used to tell a CPU what to do.
-    - [ ]  Find out what kind of popular tend to have x86-64 CPUs, and which ones usually have have ARM.
+    - [ ]  Find out what kind of popular devices tend to have 'x86-64' CPUs, and which ones usually have have 'ARM' CPUs.
 - [ ]  Find out the name of the most ‘low-level’ language that we have *other than* binary. Don’t bother trying to learn any of its syntax - but do try and find a simple example of a ‘hello world’ app written in this, just for a flavour of what it looks like.
 - [ ]  Find some beginner-level material to read on what happens when a computer starts running a program (what is the role of memory, i.e. “RAM”?)
 - [ ]  Find out the basic distinction between “binary” files and text files (note that confusingly both are, in fact, stored as binary)
