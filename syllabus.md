@@ -20,10 +20,10 @@
 - [ ]  Find out the basic distinction between “binary” files and text files (note that confusingly both are, in fact, stored as binary)
     - [ ]  Understand that the binary content of ‘text files’ can be ‘[decoded](https://en.wikipedia.org/wiki/Character_encoding)’ into human-readable text. Any file you can read in your text editor is a ‘text file’, regardless of file extension.
     - [ ]  Illustrate to yourself that the binary of “binary” files can’t be decoded this way. Find a binary file on your machine (e.g. an image or a PDF), and open it in a text editor. Marvel at the garbled nonsense.
-- [ ]  Understand that a computer program whose instructions are stored in text files - referred to as “source code” - must be translated into machine code before a computer can execute it.
+- [ ]  Understand that a computer program whose instructions are stored in text files - e.g. a `.rb` file containing ruby code - is referred to as “source code”. And that source code must be translated into machine code before a computer can execute it.
 - [ ]  Read up on the distinction between:
     - [ ]  Running a program from source code with an ‘interpreter’
-    - [ ]  ‘Compiling’ source code into an executable binary file
+    - [ ]  Running a program from an executable binary file that has been ‘compiled’ from source code
 
 > **_Field trip:_** If you live in the UK, go to the [National Museum of Computing](https://www.tnmoc.org/) in Bletchley (near London). Pay extra to book on a guided tour, and allow at least three hours. Your guide will be a true afficionado - likely a retired software or electronics engineer - and you'll learn bucketloads about computing fundamentals.
 
