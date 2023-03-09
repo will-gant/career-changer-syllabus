@@ -25,6 +25,8 @@
     - [ ]  Running a program from source code with an ‘interpreter’
     - [ ]  ‘Compiling’ source code into an executable binary file
 
+> **_Field trip:_** If you live in the UK, go to the [National Museum of Computing](https://www.tnmoc.org/) in Bletchley (near London). Pay extra to book on a guided tour, and allow at least three hours. Your guide will be a true afficionado - likely a retired software or electronics engineer - and you'll learn bucketloads about computing fundamentals.
+
 ## Operating systems
 
 - [ ]  Understand the basic definition of an OS
