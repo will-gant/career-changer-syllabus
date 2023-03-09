@@ -107,7 +107,7 @@
         - [ ]  Find out the default port a web browser uses when visiting a website with HTTPS.
 - [ ]  Make a HTTP ‘GET’ request to [`http://httpbin.org/get`](http://httpbin.org/get)
     - [ ]  From your terminal (there are several different ways to do this)
-    - [ ]  In a simple ruby program. This might be a little tricky for a total newbie, so if it takes more than 30 mins don’t worry about it.
+    - [ ]  In a simple ruby program. This might be a little tricky for a total newbie - cheating is encouraged, and if it takes more than 30 mins feel free to skip.
 - [ ]  Read a little about the ‘OSI model’, and see if you can figure out where HTTP fits into this. Don’t worry about understanding it all, or memorising it.
 
 ## Writing software
