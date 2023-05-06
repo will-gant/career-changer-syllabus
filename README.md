@@ -132,15 +132,15 @@ There's no expectation that you tackle these in any particular order - feel free
     -  Find out your private IP address from your terminal
 -  Understand that in order to talk to each other computers need to know the IP address and **port** they need to send messages to
 -  Understand the basics of ‘DNS’ - i.e. that web addresses translate into IP addresses, which is what your computer needs to actually send a message to a server
-    -  From your terminal, find out what IP address [`www.example.com`](http://www.example.com) ‘resolves’ to
-    -  Read up on what `[localhost](http://localhost)` is. From your terminal, find out what IP it resolves to.
+    -  From your terminal, find out what IP address [www.example.com](http://www.example.com) ‘resolves’ to
+    -  Read up on what `localhost` is. From your terminal, find out what IP it resolves to.
 -  Read a beginner-level introduction to HTTP
     -  Understand that your web browser makes ‘HTTP requests’ when you visit pages
     -  Learn how `GET`, `POST`, and `DELETE` requests are different (there are others, but don’t worry for now)
     -  Find out what port a web browser uses by default when visiting a website with HTTP
     -  Understand that there is a more secure version of HTTP called HTTPS. **Do not worry** about the details of how it works!
         -  Find out the default port a web browser uses when visiting a website with HTTPS.
--  Make a HTTP ‘GET’ request to [`http://httpbin.org/get`](http://httpbin.org/get)
+-  Make a HTTP ‘GET’ request to [http://httpbin.org/get](http://httpbin.org/get)
     -  From your terminal (there are several different ways to do this)
     -  In a simple ruby program. This might be a little tricky for a total newbie - cheating is encouraged, and if it takes more than 30 mins feel free to skip.
 -  Read a little about the ‘OSI model’, and see if you can figure out where HTTP fits into this. Don’t worry about understanding it all, or memorising it.
