@@ -1,8 +1,6 @@
-# Career Changer Syllabus
-
 ## What?
 
-This is my half-arsed attempt at producing an ['unofficial' syllabus](https://github.com/will-gant/career-changer-syllabus/blob/main/syllabus.md) for anyone who has _not_ done a computer science degree and is:
+This is my half-arsed attempt at producing an ['unofficial' syllabus](./syllabus.html) for anyone who has _not_ done a computer science degree and is:
 * Considering pursuing some training to become a software engineer (i.e. self-study, a software development 'bootcamp', etc)
 * Has already done that training
 * Is relatively early in their new career
